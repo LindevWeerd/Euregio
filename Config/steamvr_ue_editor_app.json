@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.euregioc-17735300.ue4editor.exe",
+			"app_key": "application.generated.ue.top-down-game-template-17735300.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "C:/Users/Student2021/Documents/Unreal Projects/EuregioC/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "C:/Users/Student2021/Documents/Unreal Projects/Euregio/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "EuregioC-17735300 [UE Editor]"
+					"name": "Top Down Game Template-17735300 [UE Editor]"
 				}
 			}
 		}
